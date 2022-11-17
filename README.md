@@ -1,4 +1,4 @@
-# samsung-gear-fit2-music-manager
+# Samsung Gear Fit2 Music Manager
 Samsung Gear Fit2 music manager app  
   
 HOW TO USE:  
